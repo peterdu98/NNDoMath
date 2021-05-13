@@ -1,4 +1,4 @@
-# Nerual network doing Math
+# Neural network doing Math
 
 This repository contains the implementation of neural network that is used for doing math.
 
